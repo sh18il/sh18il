@@ -11,10 +11,7 @@
 
 - 💬 Happy to answer your **Flutter** queries
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https:https://www.linkedin.com/in/muhammed-shibil-376163289/" target="blank"><img align="center" src="" alt="Muhammed Shibil M" height="30" width="40" /></a>
-<a href="https://instagram.com/shhiibiiill" target="blank"><img align="center" src="" alt="shhiibiiill" height="30" width="40" /></a>
+
 
 
 
